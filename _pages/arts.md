@@ -58,6 +58,8 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 
 ---
 
+## 📸 Musical Performances
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
