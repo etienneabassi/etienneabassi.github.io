@@ -11,8 +11,8 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "Research projects"
-    url: /projects/
+  # - title: "Research projects"
+  #   url: /projects/
     
   - title: "Workshops & Arts"
     url: /arts/
