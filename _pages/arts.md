@@ -33,7 +33,7 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/Lucioles2024_workshop.jpeg" target="_blank">
+  <a href="/images/Lucioles2024_workshop.jpg" target="_blank">
     <img src="/images/Lucioles2024_workshop.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
   <div style="margin-top: 6px; font-size: 0.9em; color: #555;">**Lucioles 2024**</div>
