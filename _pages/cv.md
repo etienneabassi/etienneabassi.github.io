@@ -13,7 +13,7 @@ You can download my full academic CV here:
 
 ---
 
-I am currently a postdoctoral researcher at the Montreal Neurological Institut, McGill University in the Auditory Cognitive Neuroscience Laboratory, led by Prof. Zatorre.  
+I am currently a postdoctoral researcher at the Montreal Neurological Institute (McGill University) in the Auditory Cognitive Neuroscience Laboratory, led by Prof. Zatorre.  
 My actual research focuses on the vibrotactile perception of music and bass frequencies, as well as pleasure and brain networks associated.
 
 ### Current Affiliations
