@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Enhancing Music Perception Through Vibrotactile Feedback.
+## ** Enhancing Music Perception Through Vibrotactile Feedback.
 
 This project explores how **tactile stimulation** can enhance the way we **perceive and feel music**. We're using both scientific and artistic approaches to understand:
 
@@ -16,7 +16,8 @@ This project explores how **tactile stimulation** can enhance the way we **perce
 We're currently developing a wearable prototype and testing it with musicians and non-musicians alike.
 
 
-## Influence of social context and musical syntax in processing musical conversations
+
+## ** Influence of social context and musical syntax in processing musical conversations
 
 This project explores how **social context and musical structure** influence the way we understand **music in noisy environments**. Our goals include:
 
