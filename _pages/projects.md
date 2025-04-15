@@ -19,7 +19,7 @@ We're currently developing a wearable prototype and testing it with musicians an
 
 ## ** Influence of social context and musical syntax in processing musical conversations
 
-This project explores how **social context and musical structure** influence the way we understand **music in noisy environments**. Our goals include:
+This project explores how **social context and musical structure** influence the way we process music. Our goals include:
 
 - Exploring how **musical interactions** support perception, similar to conversations in speech
 - Studying how the structure of music helps the brain **predict and organize sound**
