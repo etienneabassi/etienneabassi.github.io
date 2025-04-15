@@ -9,7 +9,7 @@ redirect_from:
 
 ## Current Research
 
-I currently explore how **tactile signals** can enhance auditory perception of **music and language**, especially under noisy or degraded conditions.  
+I currently explore how **tactile perception** can enhance auditory perception of **music and language**, especially under noisy or degraded conditions.  
 
 This includes developing and testing tools for **tactile music rendering**, with implications for accessibility, live performance, and cognitive integration of multisensory information.
 
