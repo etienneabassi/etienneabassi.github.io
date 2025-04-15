@@ -18,4 +18,4 @@ This includes developing and testing tools for **tactile music rendering**, with
 
 ## Workshops & Artistic Practice
 
-Outside of academia, I create and lead workshops combining on the topic of **brain science, music, and technology** — often featured in festivals and cultural spaces.  
+Outside of academia, I animate workshops combining on the topic of **brain science, music, and technology**, often featured in festivals and cultural spaces, as well as giving musical performances. 
