@@ -13,7 +13,7 @@ These include:
 
 - **Brain, Bass & Music Conferences** – A general public conference exploring how repetitive rhythms and low frequency sounds influence our bodies and brains while dancing.
 - **Sound Synthesis Workshops** – An intro to creating, shaping and visualizing electronic sounds using digital synths.
-- **Musical performances** – I perform immersive musical performances under the names of Tikshä and Tikin' Dub that blend deep bass, musical textures, and sensory exploration through sound.
+- **Musical performances** – I perform immersive musical performances under the names of **Tikshä** and **Tikin' Dub** that blend deep bass, musical textures, and sensory exploration through sound.
   🎧 Check out my music on [SoundCloud](https://soundcloud.com/tiksha)
   
 
