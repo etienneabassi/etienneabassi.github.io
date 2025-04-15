@@ -5,7 +5,7 @@ permalink: /arts/
 author_profile: true
 ---
 
-## Brain, Bass & Music – Workshops & Creative Practice
+## Brain, Bass & Music – Workshops & Musical performances
 
 I design and lead interactive workshops that explore the connections between **Neuroscience, Music, and Low-frequency Sounds**.
 
