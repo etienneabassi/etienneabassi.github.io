@@ -12,12 +12,10 @@ I hold a bachelor degree in Neurosciences and Behavioral Sciences from the Unive
 
 ## Current Research
 
-I currently explore how **tactile and auditory signals** can enhance perception of **music and language**, especially under noisy or degraded conditions.  
+I currently explore how **tactile signals** can enhance auditory perception of **music and language**, especially under noisy or degraded conditions.  
 
 This includes developing tools for **tactile music rendering**, with implications for accessibility, live performance, and cognitive integration of multisensory information.
 
 ## Workshops & Artistic Practice
 
-Outside of academia, I create and lead workshops combining **brain science, music, and technology** — often featured in festivals and cultural spaces.  
-
-> **Brain, Bass & Music** is a recurring hands-on experience where participants explore how the brain perceives rhythm, vibration, and multisensory input.
+Outside of academia, I create and lead workshops combining on the topic of **brain science, music, and technology** — often featured in festivals and cultural spaces.  
