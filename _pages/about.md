@@ -9,13 +9,13 @@ redirect_from:
 
 ## Current Research
 
-I currently explore how **tactile perception** can enhance auditory perception of **music and language**, especially under noisy or degraded conditions.  
+I currently study how **tactile perception** can enhance auditory perception of **music and language**, especially under noisy or degraded conditions.  
 
 This includes developing and testing tools for **tactile music rendering**, with implications for accessibility, live performance, and cognitive integration of multisensory information.
 
 ## Workshops & Artistic Practice
 
-Outside of academia, I animate workshops combining on the topic of **brain science, music, and technology**, often featured in festivals and cultural spaces, as well as giving musical performances. 
+Outside of academia, I animate workshops on the topics of **brain science, music, and technology**, often featured in festivals and cultural spaces, as well as giving musical performances. 
 
 ## About Me
 
