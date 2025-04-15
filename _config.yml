@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Etienne Abassi / Music Cognitive Neuroscience"
+title                    : "Etienne Abassi / Neuroscientist"
 title_separator          : "-"
 name                     : &name "Etienne Abassi"
 description              : &description "Postdoctoral researcher in Music Cognition & Neuroscience"
