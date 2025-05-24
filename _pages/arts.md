@@ -48,7 +48,7 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/Timless2023_affiche3.jpg" target="_blank">
-    <img src="/images/Timless2023_affiche3.jpg" alt="Timeless Poster" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/Timless2023_affiche3.jpg" alt="Timeless Ad" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
   <div style="margin-top: 6px; font-size: 0.9em; color: #555;">**Timeless 2023**</div>
 </div>
