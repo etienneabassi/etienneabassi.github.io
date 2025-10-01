@@ -21,8 +21,8 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 ---
-## <u>2025 - Timeless - *Canada*</u>
-
+## 2025 - Timeless - *Canada*
+-----------------------------
 <div>
   <a href="/images/2025_Timeless/1_Affiche.jpg" target="_blank">
     <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -133,8 +133,8 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## <u>2025 - Lucioles - *Canada*</u>
-
+## 2025 - Lucioles - *Canada*
+-----------------------------
 
 <div>
   <a href="/images/2025_Lucioles/1_Affiche.jpg" target="_blank">
@@ -199,8 +199,8 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## <u>2024 - Lucioles - *Canada*</u>
-
+## 2024 - Lucioles - *Canada*
+-----------------------------
 
 <div>
   <a href="/images/2024_Lucioles/1_Affiche.jpg" target="_blank">
@@ -252,7 +252,8 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## <u>2024 - Future Forest - *Canada*</u>
+## 2024 - Future Forest - *Canada*
+-----------------------------
 
 <div>
   <a href="/images/2024_FF/1_affiche.jpg" target="_blank">
@@ -279,7 +280,8 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## <u>2023 - Timeless - *Canada*</u>
+## 2023 - Timeless - *Canada*
+-----------------------------
 
 <div>
   <a href="/images/2023_Timeless/1_Affiche.jpg" target="_blank">
