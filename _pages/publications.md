@@ -9,7 +9,7 @@ author_profile: true
 
 - **Abassi, E.**, & Zatorre, R. (2025). *Influence of social and semantic context in processing speech in noise.* The Journal of the Acoustical Society of America, 155(3), A33. [https://doi.org/10.1121/10.0026692](https://doi.org/10.1121/10.0026692)
 
-- - Munin, V., **Abassi, E.**, & Papeo, L. (2025). *The effects of spatial relations and motion information in social scene perception.* Scientific Reports, 15(1), 25817. [https://doi.org/10.1038/s41598-025-07870-1](https://doi.org/10.1038/s41598-025-07870-1)
+- Munin, V., **Abassi, E.**, & Papeo, L. (2025). *The effects of spatial relations and motion information in social scene perception.* Scientific Reports, 15(1), 25817. [https://doi.org/10.1038/s41598-025-07870-1](https://doi.org/10.1038/s41598-025-07870-1)
 
 - **Abassi, E.**, Bognár, A., de Gelder, B., Giese, M., Isik, L., Lappe, A. & Vogels, R. (2024). *Neural Encoding of Bodies for Primate Social Perception.* Journal of Neuroscience, 44(40). [https://doi.org/10.1523/JNEUROSCI.1221-24.2024](https://doi.org/10.1523/JNEUROSCI.1221-24.2024)
 
