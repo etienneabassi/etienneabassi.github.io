@@ -23,7 +23,7 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 ---
-## 2025 - Timeless - Canada
+## 2025 - Timeless - *Canada*
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -134,7 +134,7 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## 2025 - Lucioles - Canada
+## 2025 - Lucioles - *Canada*
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -199,7 +199,7 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## 2024 - Lucioles - Canada
+## 2024 - Lucioles - *Canada*
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -251,7 +251,7 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## 2024 - Future Forest - Canada
+## 2024 - Future Forest - *Canada*
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -278,7 +278,7 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 </div>
 
-## 2023 - Timeless - Canada
+## 2023 - Timeless - *Canada*
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
