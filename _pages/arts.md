@@ -5,8 +5,6 @@ permalink: /arts/
 author_profile: true
 ---
 
-## Brain, Bass & Music – Workshops & Musical performances
-
 Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
 
 These include:
@@ -24,13 +22,14 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 ---
 ## 2025 - Timeless - *Canada*
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  
+
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Timeless/1_Affiche.jpg" target="_blank">
     <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Timeless/2_vignette1.jpg" target="_blank">
