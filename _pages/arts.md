@@ -19,6 +19,9 @@ These include:
   
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
 
+**You want to host a workshop or collaborate?**  
+Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
+
 ---
 ## 2025 - Timeless - Canada
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
@@ -136,61 +139,61 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/1_Affiche.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/1_Affiche.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/2_program.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/2_program.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/2_program.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/3_set1.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/3_set1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/3_set1.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/4_set2.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/4_set2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/4_set2.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/5_set3.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/5_set3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/5_set3.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/6_set4.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/6_set4.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/6_set4.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/7_set5.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/7_set5.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/7_set5.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/8_general1.jpg" target="_blank">
-    <img src="/images/22025_Lucioles/8_general1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/22025_Lucioles/8_general1.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/9_general2.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/9_general2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/9_general2.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/10_general3.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/10_general3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/10_general3.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -201,48 +204,48 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/1_Affiche.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/1_Affiche.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/3_Program" target="_blank">
-    <img src="/images/2024_Lucioles/3_Program" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/3_Program" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/5_set1" target="_blank">
-    <img src="/images/2024_Lucioles/5_set1" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/5_set1" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/6_set2.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/6_set2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/6_set2.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/7_general1.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/7_general1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/7_general1.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/8_general2.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/8_general2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/8_general2.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/10_general4.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/10_general4.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/10_general4.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/2_vignette.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/2_vignette.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/2_vignette.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/4_workshop.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/4_workshop.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/4_workshop.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -253,23 +256,23 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_FF/1_affiche.jpg" target="_blank">
-    <img src="/images/2024_FF/1_affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_FF/1_affiche.jpg" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_FF/2_vignette.png" target="_blank">
-    <img src="/images/2024_FF/2_vignette.png" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_FF/2_vignette.png" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_FF/3_general1.JPG" target="_blank">
-    <img src="/images/2024_FF/3_general1.JPG" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_FF/3_general1.JPG" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_FF/4_general2.jpeg" target="_blank">
-    <img src="/images/2024_FF/4_general2.jpeg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_FF/4_general2.jpeg" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -280,47 +283,44 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/1_Affiche.jpg" target="_blank">
-    <img src="/images/2023_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/1_Affiche.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/2_vignette.jpg" target="_blank">
-    <img src="/images/2023_Timeless/2_vignette.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/2_vignette.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/3_program.jpg" target="_blank">
-    <img src="/images/2023_Timeless/3_program.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/3_program.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/4_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/4_general.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/4_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/5_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/5_general.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/5_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/6_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/6_general.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/6_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/7_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/7_general.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/7_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/8_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/8_general.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/8_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 </div>
-
-Want to host a workshop or collaborate?  
-Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
