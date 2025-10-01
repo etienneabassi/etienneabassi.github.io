@@ -7,19 +7,39 @@ author_profile: true
 
 ## Brain, Bass & Music – Workshops & Musical performances
 
-I design and lead interactive workshops that explore the connections between **Neuroscience, Music, and Low-frequency Sounds**.
+Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
 
 These include:
 
-- **Brain, Bass & Music Conferences** – A general public conference exploring how repetitive rhythms and low frequency sounds influence our bodies and brains while dancing.
-- **Sound Synthesis Workshops** – An intro to creating, shaping and visualizing electronic sounds using digital synths.
 - **Musical performances** – I perform immersive musical performances under the names of **Tikshä** and **Tikin' Dub** that blend deep bass, musical textures, and sensory exploration through sound.
   🎧 Check out my music on [SoundCloud](https://soundcloud.com/tiksha)
-  
+- **Brain, Bass & Music Conferences** – A general public conference exploring how music, repetitive rhythms and deep bass influence our bodies and brains while dancing.
+- **Sound Synthesis Workshops** – An introduction to creating, shaping and visualizing electronic sounds using digital synths and scientifc instruments.
 
+  
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
 
 ---
+## 2025 - Timeless - Quebec, Canada
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/Future_Forest_2024_workshop.png" target="_blank">
+    <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+</div>
+
+
+
+## 2025 - Lucioles - Quebec, Canada
+
+## 2024 - Lucioles - Quebec, Canada
+
+## 2024 - Future Forest - New Brunswick, Canada
+
+## 2023 - Timeless - Quebec, Canada
+
+
 
 ## 📸 Workshops
 
