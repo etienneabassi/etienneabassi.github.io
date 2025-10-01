@@ -134,14 +134,15 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 </div>
 
 ## 2025 - Lucioles - *Canada*
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+
+<div>
   <a href="/images/2025_Lucioles/1_Affiche.jpg" target="_blank">
     <img src="/images/2025_Lucioles/1_Affiche.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/2_program.jpg" target="_blank">
     <img src="/images/2025_Lucioles/2_program.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -199,14 +200,15 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 </div>
 
 ## 2024 - Lucioles - *Canada*
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+
+<div>
   <a href="/images/2024_Lucioles/1_Affiche.jpg" target="_blank">
     <img src="/images/2024_Lucioles/1_Affiche.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/3_Program.jpg" target="_blank">
     <img src="/images/2024_Lucioles/3_Program.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -251,14 +253,14 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 </div>
 
 ## 2024 - Future Forest - *Canada*
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+<div>
   <a href="/images/2024_FF/1_affiche.jpg" target="_blank">
     <img src="/images/2024_FF/1_affiche.jpg" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_FF/2_vignette.png" target="_blank">
     <img src="/images/2024_FF/2_vignette.png" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -278,14 +280,15 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 </div>
 
 ## 2023 - Timeless - *Canada*
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+<div>
   <a href="/images/2023_Timeless/1_Affiche.jpg" target="_blank">
     <img src="/images/2023_Timeless/1_Affiche.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/2_vignette.jpg" target="_blank">
     <img src="/images/2023_Timeless/2_vignette.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
