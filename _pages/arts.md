@@ -209,13 +209,13 @@ Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2024_Lucioles/3_Program" target="_blank">
-    <img src="/images/2024_Lucioles/3_Program" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2024_Lucioles/3_Program.jpg" target="_blank">
+    <img src="/images/2024_Lucioles/3_Program.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2024_Lucioles/5_set1" target="_blank">
-    <img src="/images/2024_Lucioles/5_set1" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2024_Lucioles/5_set1.jpg" target="_blank">
+    <img src="/images/2024_Lucioles/5_set1.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
