@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Golford, L., Noble, J., Knight, M., **Abassi, E.**, Couturier, G., Nestorova, T., Traube, C. **Evaluating Vocality in Orchestral and Mixed Works.** *ACTOR's Timbre and Orchestration Resource*. [https://doi.org/10.5281/zenodo.15729385](https://doi.org/10.5281/zenodo.15729385)
+- Golford, L., Noble, J., Knight, M., **Abassi, E.**, Couturier, G., Nestorova, T., Traube, C.
+  **Evaluating Vocality in Orchestral and Mixed Works.**
+  *ACTOR's Timbre and Orchestration Resource*. [https://doi.org/10.5281/zenodo.15729385](https://doi.org/10.5281/zenodo.15729385)
 
 - **Abassi, E.**, & Zatorre, R. (2025). **Influence of social and semantic context in processing speech in noise.** *The Journal of the Acoustical Society of America*, 155(3), A33. [https://doi.org/10.1121/10.0026692](https://doi.org/10.1121/10.0026692)
 
