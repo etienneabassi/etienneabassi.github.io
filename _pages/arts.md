@@ -139,64 +139,48 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
     <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/2_program.jpg" target="_blank">
     <img src="/images/2025_Timeless/2_program.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/3_set1.jpg" target="_blank">
     <img src="/images/2025_Timeless/3_set1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/4_set2.jpg" target="_blank">
     <img src="/images/2025_Timeless/4_set2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/5_set3.jpg" target="_blank">
     <img src="/images/2025_Timeless/5_set3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/6_set4.jpg" target="_blank">
     <img src="/images/2025_Timeless/6_set4.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/7_set5.jpg" target="_blank">
     <img src="/images/2025_Timeless/7_set5.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/8_general1.jpg" target="_blank">
     <img src="/images/2025_Timeless/8_general1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
-## 2025 - Lucioles - Canada
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/9_general2.jpg" target="_blank">
