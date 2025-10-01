@@ -5,7 +5,7 @@ permalink: /arts/
 author_profile: true
 ---
 
-Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
+Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music and science, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
 
 These include:
 
@@ -17,7 +17,7 @@ These include:
   
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
 
-**You want to host a workshop or collaborate?**  
+**Want to host a workshop or collaborate?**  
 Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 ---
