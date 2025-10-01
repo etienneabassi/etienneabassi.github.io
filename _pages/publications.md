@@ -5,13 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Abassi, E.**, & Zatorre, R. (2024). *Influence of social and semantic context in processing speech in noise.* The Journal of the Acoustical Society of America, 155(3), A33. [https://doi.org/10.1121/10.0026692](https://doi.org/10.1121/10.0026692)
+- Golford, L., Noble, J., Knight, M., **Abassi, E.**, Couturier, G., Nestorova, T., Traube, C. *Evaluating Vocality in Orchestral and Mixed Works.* ACTOR's Timbre and Orchestration Resource. [https://doi.org/10.5281/zenodo.15729385](https://doi.org/10.5281/zenodo.15729385)
+
+- **Abassi, E.**, & Zatorre, R. (2025). *Influence of social and semantic context in processing speech in noise.* The Journal of the Acoustical Society of America, 155(3), A33. [https://doi.org/10.1121/10.0026692](https://doi.org/10.1121/10.0026692)
+
+- - Munin, V., **Abassi, E.**, & Papeo, L. (2025). *The effects of spatial relations and motion information in social scene perception.* Scientific Reports, 15(1), 25817. [https://doi.org/10.1038/s41598-025-07870-1](https://doi.org/10.1038/s41598-025-07870-1)
 
 - **Abassi, E.**, Bognár, A., de Gelder, B., Giese, M., Isik, L., Lappe, A. & Vogels, R. (2024). *Neural Encoding of Bodies for Primate Social Perception.* Journal of Neuroscience, 44(40). [https://doi.org/10.1523/JNEUROSCI.1221-24.2024](https://doi.org/10.1523/JNEUROSCI.1221-24.2024)
 
 - **Abassi, E.**, & Papeo, L. (2024). *Category-Selective Representation of Relationships in the Visual Cortex.* Journal of Neuroscience, 44(5). [https://doi.org/10.1523/JNEUROSCI.0250-23.2023](https://doi.org/10.1523/JNEUROSCI.0250-23.2023)
-
-- Munin, V., **Abassi, E.**, & Papeo, L. (2024). *Lateralized perception of static and dynamic social interactions in left and right visual cortex.* Journal of Vision, 24(10), 500-500. [https://doi.org/10.1167/jov.24.10.500](https://doi.org/10.1167/jov.24.10.500)
 
 - Gandolfo, M., **Abassi, E.**, Balgova, E., Downing, P. E., Papeo, L., & Koldewyn, K. (2024). *Converging evidence that left extrastriate body area supports visual sensitivity to social interactions.* Current Biology, 34(2), 343-351. [https://doi.org/10.1016/j.cub.2023.12.009](https://doi.org/10.1016/j.cub.2023.12.009)
 
