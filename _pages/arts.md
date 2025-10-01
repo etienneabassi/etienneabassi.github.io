@@ -20,24 +20,129 @@ These include:
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
 
 ---
-## 2025 - Timeless - Quebec, Canada
+## 2025 - Timeless - Canada
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/Future_Forest_2024_workshop.png" target="_blank">
+  <a href="/images/2025_Timeless/1_Affiche.jpg" target="_blank">
     <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/2_vignette1.jpg" target="_blank">
+    <img src="/images/2025_Timeless/2_vignette1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/3_vignette2.jpg" target="_blank">
+    <img src="/images/2025_Timeless/3_vignette2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/4_vignette3.jpg" target="_blank">
+    <img src="/images/2025_Timeless/4_vignette3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/5_program.jpg" target="_blank">
+    <img src="/images/2025_Timeless/5_program.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/5_conf1.jpg" target="_blank">
+    <img src="/images/2025_Timeless/5_conf1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/6_conf2.jpg" target="_blank">
+    <img src="/images/2025_Timeless/6_conf2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/7_set2.jpg" target="_blank">
+    <img src="/images/2025_Timeless/7_set2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/8_set3.jpg" target="_blank">
+    <img src="/images/2025_Timeless/8_set3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/9_set1.jpg" target="_blank">
+    <img src="/images/2025_Timeless/9_set1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/10_set5.jpg" target="_blank">
+    <img src="/images/2025_Timeless/10_set5.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/11_set6.jpg" target="_blank">
+    <img src="/images/2025_Timeless/11_set6.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/12_set7.jpg" target="_blank">
+    <img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/13_set8.jpg" target="_blank">
+    <img src="/images/2025_Timeless/13_set8.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/14_general3.jpg" target="_blank">
+    <img src="/images/2025_Timeless/14_general3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_Timeless/15_general1.jpg" target="_blank">
+    <img src="/images/2025_Timeless/15_general1.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
 </div>
 
 
 
-## 2025 - Lucioles - Quebec, Canada
 
-## 2024 - Lucioles - Quebec, Canada
+</div>
 
-## 2024 - Future Forest - New Brunswick, Canada
 
-## 2023 - Timeless - Quebec, Canada
+
+## 2025 - Lucioles - Canada
+
+## 2024 - Lucioles - Canada
+
+## 2024 - Future Forest - Canada
+
+## 2023 - Timeless - Canada
 
 
 
