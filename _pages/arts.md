@@ -23,7 +23,8 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 ---
-## 2025 - Timeless - *Canada*
+## 2025 - Timeless 
+*Canada*
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
