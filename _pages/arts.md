@@ -21,6 +21,48 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
 
 ---
+## 2025 - XLTRAX Academy - *Canada*
+-----------------------------
+<div>
+  <a href="/images/2025_xltrax_academy/1_Flyer.jpg" target="_blank">
+    <img src="/images/2025_xltrax_academy/1_Flyer.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_xltrax_academy/1.jpg" target="_blank">
+    <img src="/images/2025_xltrax_academy/1.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_xltrax_academy/2.jpg" target="_blank">
+    <img src="/images/2025_xltrax_academy/2.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_xltrax_academy/3.jpg" target="_blank">
+    <img src="/images/2025_xltrax_academy/3.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_xltrax_academy/4.jpg" target="_blank">
+    <img src="/images/2025_xltrax_academy/4.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2025_xltrax_academy/5.jpg" target="_blank">
+    <img src="/images/2025_xltrax_academy/5.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+</div>
+
 ## 2025 - Timeless - *Canada*
 -----------------------------
 <div>
