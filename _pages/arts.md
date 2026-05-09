@@ -30,7 +30,7 @@ These include:
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
 
 **Want to host a workshop or collaborate?**  
-Feel free to [get in touch](mailto:etienne.abassi@gmail.com).
+Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 
 ---
 ## 2025 - XLTRAX Academy - *Canada*
