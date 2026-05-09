@@ -4,6 +4,16 @@ title: "Workshops & Arts"
 permalink: /arts/
 author_profile: true
 ---
+*****************************************
+NEXT EVENTS:
+- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/activities/la-musique-a-la-loupe/), Parc Jean-Drapeau, Montreal
+  Conference *"La musique à la loupe!"*
+- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/activities/le-cerveau-musical-en-mouvement/), Parc Jean-Drapeau, Montreal
+  Workshop *"Le cerveau musical en mouvement"*
+- **August 14–16 2026:** [Festival Lucioles](https://www.facebook.com/events/1217105753723890), Quebec
+- **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/essentiel-temp/), St-Adèle, Quebec
+
+****************************************
 
 Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music and science, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
 
