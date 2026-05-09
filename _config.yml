@@ -38,28 +38,28 @@ author:
   orcid            : "https://orcid.org/0000-0003-4235-0001"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Etienne-Abassi"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "etienneabassi"
+  github           : # "etienneabassi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # Username
-  facebook         : # Username
+  facebook         : tiksha.music
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "tiksha.music"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "etienne-abassi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "AbassiEtienne"
+  twitter          : # "AbassiEtienne"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
