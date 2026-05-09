@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Workshops & Arts"
+title: "Music & Workshops"
 permalink: /arts/
 author_profile: true
 ---
