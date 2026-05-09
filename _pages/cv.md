@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my full academic CV here:
+You can download my academic CV here:
 
 👉 [Download CV (PDF)](/files/CV_Etienne_Abassi_EN_last.pdf)
 
