@@ -12,8 +12,8 @@ author_profile: true
   Ateliers: *"La musique à la loupe !"*
 - **August 14–16 2026:** [Festival Lucioles](https://www.facebook.com/events/1217105753723890) (Saint-David, QC). *Invite only, email me if needed !*  
   DJ set + Conference 
-- **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/essentiel-temp/) (Sainte-Adèle, QC)  
-  DJ Set + Yoga sonic accompaniment
+- **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC)  
+  DJ Set + Yoga sonic accompaniement
 
 ****************************************
 
