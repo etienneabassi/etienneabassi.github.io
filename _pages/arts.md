@@ -5,12 +5,14 @@ permalink: /arts/
 author_profile: true
 ---
 *****************************************
-**COMING EVENTS:**
+**2026 EVENTS:**
 - **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/activities/le-cerveau-musical-en-mouvement/) (Parc Jean-Drapeau, Montréal, QC)  
-  Conférence: *"Le cerveau musical en mouvement"*
+  Conférence: *Le cerveau musical en mouvement*
 - **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/activities/la-musique-a-la-loupe/) (Parc Jean-Drapeau, Montréal, QC)  
-  Ateliers: *"La musique à la loupe !"*
-- **August 14–16 2026:** [Festival Lucioles](https://www.facebook.com/events/1217105753723890) (Saint-David, QC). *Invite only, email me if needed !*  
+  Ateliers: *La musique à la loupe !*
+- **July 23–27 2026:** [Groove & Bass Festival](https://www.groovenbass.com/) (Bryson, QC)  
+  Conference: *Brain, Bass and Music*
+- **August 14–16 2026:** [Lucioles Festival](https://www.facebook.com/events/1217105753723890) (Saint-David, QC). *Invite only, email me if needed !*  
   DJ set + Conference 
 - **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC)  
   DJ Set + Yoga sonic accompaniement
