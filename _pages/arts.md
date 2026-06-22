@@ -6,15 +6,15 @@ author_profile: true
 ---
 *****************************************
 **2026 EVENTS:**
-- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/activities/le-cerveau-musical-en-mouvement/) (Parc Jean-Drapeau, Montréal, QC)  
-  Conférence: *Le cerveau musical en mouvement*
-- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/activities/la-musique-a-la-loupe/) (Parc Jean-Drapeau, Montréal, QC)  
-  Atelier: *La musique à la loupe !*
-- **July 23–27 2026:** [Groove & Bass Festival](https://www.groovenbass.com/) (Bryson, QC)  
+- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/en/activities/the-musical-brain-in-motion/) (Parc Jean-Drapeau, Montréal, QC, Canada)  
+  Conference: *The Musical Brain In Motion*
+- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/en/activities/music-under-the-microscope/) (Parc Jean-Drapeau, Montréal, QC, Canada)  
+  Workshop: *Music Under Microscope !*
+- **July 23–27 2026:** [Groove & Bass Festival](https://www.groovenbass.com/) (Bryson, QC, Canada)  
   Conference: *Brain, Bass and Music*
-- **August 14–16 2026:** [Lucioles Festival](https://www.facebook.com/events/1217105753723890) (Saint-David, QC). *Invite only, email me if needed !*  
+- **August 14–16 2026:** [Lucioles Festival](https://www.facebook.com/events/1217105753723890) (Saint-David, QC, Canada). *Invite only, email me if needed !*  
   DJ set + Conference 
-- **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC)  
+- **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC, Canada)  
   DJ Set + Yoga sonic accompaniement
 
 ****************************************
