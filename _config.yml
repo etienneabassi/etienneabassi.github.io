@@ -25,12 +25,37 @@ author:
   avatar           : "photo_Etienne.jpg"
   name             : "Etienne Abassi"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher"
+  bio              : "Neuroscientist"
   location         : "Montreal, Canada"
   employer         : "McGill University"
   uri              : # URL
-  email            : "etienne.abassi@gmail.com" 
-
+  email            : "etienne.abassi@mcgill.ca" 
+  
+# Social media
+  instagram        : "tiksha.neuromusic"
+  facebook         : tiksha.neuromusic
+  soundcloud       : "tiksha"
+  linkedin         : "etienne-abassi"
+  bluesky          : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  lastfm           : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # "AbassiEtienne"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.ca/citations?user=YVZkqFIAAAAJ"
@@ -49,31 +74,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  bluesky          : # Username
-  facebook         : tiksha.music
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : "tiksha.neuromusic"
-  lastfm           : # Username
-  linkedin         : "etienne-abassi"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : "tiksha"
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # "AbassiEtienne"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
