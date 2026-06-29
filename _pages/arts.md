@@ -35,6 +35,48 @@ I regularly collaborate with festivals, cultural spaces, and educational institu
 Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 
 ---
+## 2026 - Eureka Festival - *Canada*
+-----------------------------
+<div>
+  <a href="/images/2026_Eureka/Eureka_Flyer.jpg" target="_blank">
+    <img src="/images/2026_Eureka/Eureka_Flyer.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_Eureka/Eureka_1.jpg" target="_blank">
+    <img src="/images/2026_Eureka/Eureka_1.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_Eureka/Eureka_2.jpg" target="_blank">
+    <img src="/images/2026_Eureka/Eureka_2.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_Eureka/Eureka_3.jpg" target="_blank">
+    <img src="/images/2026_Eureka/Eureka_3.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_Eureka/Eureka_4.jpg" target="_blank">
+    <img src="/images/2026_Eureka/Eureka_4.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="//images/2026_Eureka/Eureka_5.jpg.jpg" target="_blank">
+    <img src="/images/2026_Eureka/Eureka_5.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+</div>
+
 ## 2025 - XLTRAX Academy - *Canada*
 -----------------------------
 <div>
