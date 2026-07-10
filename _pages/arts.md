@@ -16,7 +16,7 @@ author_profile: true
   DJ Set + Conference (*Music, Brain and Pleasure*)
 - **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC, Canada)  
   DJ Set + Yoga sonic accompaniement
-- **September 4–7 2026:** [Timeless Festival](https://www.facebook.com/events/2841808382817033) (Sainte-Agathe de Lotbinière, QC, Canada)  
+- **September 4–7 2026:** [Timeless Festival](https://www.festochebamboche.com/) (Sainte-Agathe de Lotbinière, QC, Canada)  
   Conference: *Music, Brain and Pleasure*
 
 ****************************************
