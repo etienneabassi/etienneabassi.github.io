@@ -5,7 +5,7 @@ permalink: /arts/
 author_profile: true
 ---
 *****************************************
-**2026 EVENTS:**
+**2026 TOUR:**
 - **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/en/activities/the-musical-brain-in-motion/) (Parc Jean-Drapeau, Montréal, QC, Canada)  
   Conference: *The Musical Brain In Motion*
 - **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/en/activities/music-under-the-microscope/) (Parc Jean-Drapeau, Montréal, QC, Canada)  
