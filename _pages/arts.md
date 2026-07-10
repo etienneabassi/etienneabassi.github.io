@@ -12,7 +12,7 @@ author_profile: true
 - **July 23–27 2026:** [Groove & Bass Festival](https://www.groovenbass.com/) (Bryson, QC, Canada)  
   Conference: *Brain, Bass and Music*
 - **August 14–16 2026:** [Lucioles Festival](https://www.facebook.com/events/1217105753723890) (Saint-David, QC, Canada). *Invite only, email me if needed !*  
-  DJ Set + Conference (*Music, Brain and Pleasure*)
+  DJ Set + Conference: *Music, Brain and Pleasure*
 - **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC, Canada)  
   DJ Set + Yoga sonic accompaniement
 - **September 4–7 2026:** [Timeless Festival](https://www.festochebamboche.com/) (Sainte-Agathe de Lotbinière, QC, Canada)  
