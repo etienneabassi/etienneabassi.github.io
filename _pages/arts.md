@@ -7,7 +7,7 @@ author_profile: true
 *****************************************
 **2026 TOUR:**
 - **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/en/) (Parc Jean-Drapeau, Montréal, QC, Canada)  
-  Conference: [*The Musical Brain In Motion*](https://festivaleureka.ca/en/activities/the-musical-brain-in-motion/) 
+  Conference: [*The Musical Brain In Motion*](https://festivaleureka.ca/en/activities/the-musical-brain-in-motion/)
   Workshop: [*Music Under Microscope !*](https://festivaleureka.ca/en/activities/music-under-the-microscope/)
 - **July 23–27 2026:** [Groove & Bass Festival](https://www.groovenbass.com/) (Bryson, QC, Canada)  
   Conference: *Brain, Bass and Music*
