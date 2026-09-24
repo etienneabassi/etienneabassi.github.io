@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Molliex, M. & **Abassi, E.** (2026). **Personalized Gesture-to-Sound Mapping for Accessible Digital Musical Instruments: An Interactive Machine Learning Approach.** In Proceedings of the AI Music Creativity Conference (AIMC 2026). [https://doi.org/10.5281/zenodo.22256900](https://doi.org/10.5281/zenodo.22256900)
 
 - **Abassi, E.**, & Zatorre, R. *(2026)*. **The representation of speech conversations in the human auditory cortex: role of social and semantic factors.** *Cerebral Cortex* [https://doi.org/10.1093/cercor/bhag023](https://doi.org/10.1093/cercor/bhag023)
 
