@@ -13,6 +13,9 @@ main:
     
   - title: "Research projects"
     url: /projects/
+
+  - title: "Medias"
+    url: /medias/
     
   - title: "Music & Workshops"
     url: /arts/
