@@ -91,7 +91,6 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 <div class="gallery-hero"><a href="/images/2026_flow/Flow_1.jpg" target="_blank"><img src="/images/2026_flow/Flow_1.jpg" alt="Flow 2026"></a></div>
 <div class="gallery">
-<a href="/images/2026_flow/Flow_2.jpg" target="_blank"><img src="/images/2026_flow/Flow_2.jpg" alt="Flow 2026" loading="lazy"></a>
 <a href="/images/2026_flow/Flow_3.jpg" target="_blank"><img src="/images/2026_flow/Flow_3.jpg" alt="Flow 2026" loading="lazy"></a>
 <a href="/images/2026_flow/Flow_4.jpg" target="_blank"><img src="/images/2026_flow/Flow_4.jpg" alt="Flow 2026" loading="lazy"></a>
 <a href="/images/2026_flow/Flow_5.jpg" target="_blank"><img src="/images/2026_flow/Flow_5.jpg" alt="Flow 2026" loading="lazy"></a>
