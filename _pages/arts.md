@@ -39,7 +39,20 @@ author_profile: true
 /* Images with text (programs): fit inside the frame instead of cropping */
 .gallery a.full { background: rgba(127,127,127,0.12); }
 .gallery a.full img { object-fit: contain; }
-.gallery a.top img { object-position: top; }
+/* Framing: choose which part of a cropped photo stays visible */
+.gallery img { object-position: var(--x, 50%) var(--y, 50%); }
+/* Vertical: y0 = top edge, y100 = bottom edge (default 50 = centered) */
+.gallery a.y0 { --y: 0%; }    .gallery a.y10 { --y: 10%; }
+.gallery a.y20 { --y: 20%; }  .gallery a.y30 { --y: 30%; }
+.gallery a.y40 { --y: 40%; }  .gallery a.y60 { --y: 60%; }
+.gallery a.y70 { --y: 70%; }  .gallery a.y80 { --y: 80%; }
+.gallery a.y90 { --y: 90%; }  .gallery a.y100 { --y: 100%; }
+/* Horizontal: x0 = left edge, x100 = right edge (default 50 = centered) */
+.gallery a.x0 { --x: 0%; }    .gallery a.x10 { --x: 10%; }
+.gallery a.x20 { --x: 20%; }  .gallery a.x30 { --x: 30%; }
+.gallery a.x40 { --x: 40%; }  .gallery a.x60 { --x: 60%; }
+.gallery a.x70 { --x: 70%; }  .gallery a.x80 { --x: 80%; }
+.gallery a.x90 { --x: 90%; }  .gallery a.x100 { --x: 100%; }
 .gallery a:focus-visible { outline: 3px solid currentColor; outline-offset: 2px; }
 </style>
 
@@ -73,8 +86,8 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a href="/images/2026_timeless/timeless_2.jpg" target="_blank"><img src="/images/2026_timeless/timeless_2.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_6.jpg" target="_blank"><img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_7.jpg" target="_blank"><img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" loading="lazy"></a>
-<a href="/images/2026_timeless/timeless_3.jpg" target="_blank"><img src="/images/2026_timeless/timeless_3.jpg" alt="Timeless 2026" loading="lazy"></a>
-<a href="/images/2026_timeless/timeless_4.jpg" target="_blank"><img src="/images/2026_timeless/timeless_4.jpg" alt="Timeless 2026" loading="lazy"></a>
+<a class="x0" href="/images/2026_timeless/timeless_3.jpg" target="_blank"><img src="/images/2026_timeless/timeless_3.jpg" alt="Timeless 2026" loading="lazy"></a>
+<a class="x70" href="/images/2026_timeless/timeless_4.jpg" target="_blank"><img src="/images/2026_timeless/timeless_4.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_5.jpg" target="_blank"><img src="/images/2026_timeless/timeless_5.jpg" alt="Timeless 2026" loading="lazy"></a>
 </div>
 
@@ -84,7 +97,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <div class="gallery">
 <a href="/images/2026_lucioles/Lucioles_2.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_2.jpg" alt="Lucioles 2026" loading="lazy"></a>
 <a href="/images/2026_lucioles/Lucioles_3.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_3.jpg" alt="Lucioles 2026" loading="lazy"></a>
-<a href="/images/2026_lucioles/Lucioles_4.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_4.jpg" alt="Lucioles 2026" loading="lazy"></a>
+<a class="y40" href="/images/2026_lucioles/Lucioles_4.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_4.jpg" alt="Lucioles 2026" loading="lazy"></a>
 <a href="/images/2026_lucioles/Lucioles_5.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_5.jpg" alt="Lucioles 2026" loading="lazy"></a>
 </div>
 
@@ -137,7 +150,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a class="full" href="/images/2025_Timeless/5_program.jpg" target="_blank"><img src="/images/2025_Timeless/5_program.jpg" alt="Timeless 2025 program" loading="lazy"></a>
 <a href="/images/2025_Timeless/7_set2.jpg" target="_blank"><img src="/images/2025_Timeless/7_set2.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/9_set1.jpg" target="_blank"><img src="/images/2025_Timeless/9_set1.jpg" alt="Timeless 2025" loading="lazy"></a>
-<a href="/images/2025_Timeless/12_set7.jpg" target="_blank"><img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" loading="lazy"></a>
+<a class="y70" href="/images/2025_Timeless/12_set7.jpg" target="_blank"><img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/13_set8.jpg" target="_blank"><img src="/images/2025_Timeless/13_set8.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/14_general3.jpg" target="_blank"><img src="/images/2025_Timeless/14_general3.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/15_general1.jpg" target="_blank"><img src="/images/2025_Timeless/15_general1.jpg" alt="Timeless 2025" loading="lazy"></a>
@@ -152,7 +165,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a href="/images/2025_Lucioles/4_set2.jpg" target="_blank"><img src="/images/2025_Lucioles/4_set2.jpg" alt="Lucioles 2025" loading="lazy"></a>
 <a href="/images/2025_Lucioles/7_set5.jpg" target="_blank"><img src="/images/2025_Lucioles/7_set5.jpg" alt="Lucioles 2025" loading="lazy"></a>
 <a href="/images/2025_Lucioles/9_general2.jpg" target="_blank"><img src="/images/2025_Lucioles/9_general2.jpg" alt="Lucioles 2025" loading="lazy"></a>
-<a href="/images/2025_Lucioles/10_general3.jpg" target="_blank"><img src="/images/2025_Lucioles/10_general3.jpg" alt="Lucioles 2025" loading="lazy"></a>
+<a class="y70" href="/images/2025_Lucioles/10_general3.jpg" target="_blank"><img src="/images/2025_Lucioles/10_general3.jpg" alt="Lucioles 2025" loading="lazy"></a>
 </div>
 
 ## 2024 - Lucioles - *Canada*
@@ -160,7 +173,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <div class="gallery-hero"><a href="/images/2024_Lucioles/1_Affiche.jpg" target="_blank"><img src="/images/2024_Lucioles/1_Affiche.jpg" alt="Lucioles 2024"></a></div>
 <div class="gallery">
 <a class="full" href="/images/2024_Lucioles/3_Program.jpg" target="_blank"><img src="/images/2024_Lucioles/3_Program.jpg" alt="Lucioles 2024 program" loading="lazy"></a>
-<a href="/images/2024_Lucioles/5_set1.jpg" target="_blank"><img src="/images/2024_Lucioles/5_set1.jpg" alt="Lucioles 2024" loading="lazy"></a>
+<a class="y70" href="/images/2024_Lucioles/5_set1.jpg" target="_blank"><img src="/images/2024_Lucioles/5_set1.jpg" alt="Lucioles 2024" loading="lazy"></a>
 <a href="/images/2024_Lucioles/7_general1.jpg" target="_blank"><img src="/images/2024_Lucioles/7_general1.jpg" alt="Lucioles 2024" loading="lazy"></a>
 <a href="/images/2024_Lucioles/8_general2.jpg" target="_blank"><img src="/images/2024_Lucioles/8_general2.jpg" alt="Lucioles 2024" loading="lazy"></a>
 <a href="/images/2024_Lucioles/10_general4.jpg" target="_blank"><img src="/images/2024_Lucioles/10_general4.jpg" alt="Lucioles 2024" loading="lazy"></a>
