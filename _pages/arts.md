@@ -36,6 +36,17 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_6.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_7.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_timeless/timeless_2.jpg" target="_blank">
     <img src="/images/2026_timeless/timeless_2.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
@@ -46,6 +57,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
     <img src="/images/2026_timeless/timeless_3.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
+
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_timeless/timeless_4.jpg" target="_blank">
     <img src="/images/2026_timeless/timeless_4.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -55,18 +67,6 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_timeless/timeless_5.jpg" target="_blank">
     <img src="/images/2026_timeless/timeless_5.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_timeless/timeless_6.jpg" target="_blank">
-    <img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_timeless/timeless_7.jpg" target="_blank">
-    <img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -95,14 +95,14 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_lucioles/Lucioles_3.jpg" target="_blank">
-    <img src="/images/2026_lucioles/Lucioles_3.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2026_lucioles/Lucioles_4.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_4.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_lucioles/Lucioles_2.jpg" target="_blank">
-    <img src="/images/2026_lucioles/Lucioles_2.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2026_lucioles/Lucioles_5.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_5.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -155,7 +155,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2026_groove/groove_1.jpg" target="_blank">
-    <img src="/images/2026_groove/groove_1.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_groove/groove_1.jpg" alt="Groove and Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -163,25 +163,25 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_groove/groove_2.jpg" target="_blank">
-    <img src="/images/2026_groove/groove_2.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_groove/groove_2.jpg" alt="Groove and Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_groove/groove_3.jpg" target="_blank">
-    <img src="/images/2026_groove/groove_3.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_groove/groove_3.jpg" alt="Groove and Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_groove/groove_4.jpg" target="_blank">
-    <img src="/images/2026_groove/groove_4.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_groove/groove_4.jpg" alt="Groove and Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2026_groove/groove_5.jpg" target="_blank">
-    <img src="/images/2026_groove/groove_5.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_groove/groove_5.jpg" alt="Groove and Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
