@@ -90,7 +90,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a href="/images/2026_timeless/timeless_6.jpg" target="_blank"><img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_7.jpg" target="_blank"><img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a class="x0" href="/images/2026_timeless/timeless_3.jpg" target="_blank"><img src="/images/2026_timeless/timeless_3.jpg" alt="Timeless 2026" loading="lazy"></a>
-<a class="x70" href="/images/2026_timeless/timeless_4.jpg" target="_blank"><img src="/images/2026_timeless/timeless_4.jpg" alt="Timeless 2026" loading="lazy"></a>
+<a class="x90" href="/images/2026_timeless/timeless_4.jpg" target="_blank"><img src="/images/2026_timeless/timeless_4.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_5.jpg" target="_blank"><img src="/images/2026_timeless/timeless_5.jpg" alt="Timeless 2026" loading="lazy"></a>
 </div>
 
@@ -100,7 +100,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <div class="gallery">
 <a href="/images/2026_lucioles/Lucioles_2.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_2.jpg" alt="Lucioles 2026" loading="lazy"></a>
 <a href="/images/2026_lucioles/Lucioles_3.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_3.jpg" alt="Lucioles 2026" loading="lazy"></a>
-<a class="y40" href="/images/2026_lucioles/Lucioles_4.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_4.jpg" alt="Lucioles 2026" loading="lazy"></a>
+<a class="y20" href="/images/2026_lucioles/Lucioles_4.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_4.jpg" alt="Lucioles 2026" loading="lazy"></a>
 <a href="/images/2026_lucioles/Lucioles_5.jpg" target="_blank"><img src="/images/2026_lucioles/Lucioles_5.jpg" alt="Lucioles 2026" loading="lazy"></a>
 </div>
 
@@ -151,9 +151,9 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a href="/images/2025_Timeless/3_vignette2.jpg" target="_blank"><img src="/images/2025_Timeless/3_vignette2.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/4_vignette3.jpg" target="_blank"><img src="/images/2025_Timeless/4_vignette3.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a class="full" href="/images/2025_Timeless/5_program.jpg" target="_blank"><img src="/images/2025_Timeless/5_program.jpg" alt="Timeless 2025 program" loading="lazy"></a>
-<a href="/images/2025_Timeless/7_set2.jpg" target="_blank"><img src="/images/2025_Timeless/7_set2.jpg" alt="Timeless 2025" loading="lazy"></a>
+<a class="y70" href="/images/2025_Timeless/7_set2.jpg" target="_blank"><img src="/images/2025_Timeless/7_set2.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/9_set1.jpg" target="_blank"><img src="/images/2025_Timeless/9_set1.jpg" alt="Timeless 2025" loading="lazy"></a>
-<a class="y70" href="/images/2025_Timeless/12_set7.jpg" target="_blank"><img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" loading="lazy"></a>
+<a href="/images/2025_Timeless/12_set7.jpg" target="_blank"><img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/13_set8.jpg" target="_blank"><img src="/images/2025_Timeless/13_set8.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/14_general3.jpg" target="_blank"><img src="/images/2025_Timeless/14_general3.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/15_general1.jpg" target="_blank"><img src="/images/2025_Timeless/15_general1.jpg" alt="Timeless 2025" loading="lazy"></a>
