@@ -106,17 +106,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
   </a>
 </div>
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_xltrax_academy/4.jpg" target="_blank">
-    <img src="/images/2025_xltrax_academy/4.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_xltrax_academy/5.jpg" target="_blank">
-    <img src="/images/2025_xltrax_academy/5.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
 
 </div>
 
@@ -157,11 +146,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
   </a>
 </div>
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Timeless/6_conf2.jpg" target="_blank">
-    <img src="/images/2025_Timeless/6_conf2.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
 
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -171,12 +155,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 </div>
 
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Timeless/8_set3.jpg" target="_blank">
-    <img src="/images/2025_Timeless/8_set3.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Timeless/9_set1.jpg" target="_blank">
@@ -185,11 +163,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 </div>
 
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Timeless/10_set5.jpg" target="_blank">
-    <img src="/images/2025_Timeless/10_set5.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
 
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -253,28 +226,11 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Lucioles/5_set3.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/5_set3.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Lucioles/6_set4.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/6_set4.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/7_set5.jpg" target="_blank">
     <img src="/images/2025_Lucioles/7_set5.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Lucioles/8_general1.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/8_general1.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Lucioles/9_general2.jpg" target="_blank">
@@ -308,11 +264,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2024_Lucioles/5_set1.jpg" target="_blank">
     <img src="/images/2024_Lucioles/5_set1.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2024_Lucioles/6_set2.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/6_set2.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
@@ -390,21 +341,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2023_Timeless/3_program.jpg" target="_blank">
     <img src="/images/2023_Timeless/3_program.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2023_Timeless/4_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/4_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2023_Timeless/5_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/5_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2023_Timeless/6_general.jpg" target="_blank">
-    <img src="/images/2023_Timeless/6_general.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
