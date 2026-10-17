@@ -5,19 +5,8 @@ permalink: /arts/
 author_profile: true
 ---
 *****************************************
-**2026 TOUR:**
-- **June 7th 2026:** [Festival Eureka](https://festivaleureka.ca/en/) (Parc Jean-Drapeau, Montréal, QC, Canada)  
-  Conference: [*The Musical Brain In Motion*](https://festivaleureka.ca/en/activities/the-musical-brain-in-motion/) <br>
-  Workshop: [*Music Under Microscope !*](https://festivaleureka.ca/en/activities/music-under-the-microscope/)
-- **July 23–27 2026:** [Groove & Bass Festival](https://www.groovenbass.com/) (Bryson, QC, Canada)  
-  Conference: *Brain, Bass and Music*
-- **August 14–16 2026:** [Lucioles Festival](https://www.facebook.com/events/1217105753723890) (Saint-David, QC, Canada). *Invite only, email me if needed !*  
-  DJ Set + Conference: *Music, Brain and Pleasure*
-- **August 22–23 2026:** [Flow Festival](https://www.flowfestival.ca/programmation/) (Sainte-Adèle, QC, Canada)  
-  DJ Set + Yoga sonic accompaniement
-- **September 4–7 2026:** [Timeless Festival](https://www.festochebamboche.com/) (Sainte-Agathe de Lotbinière, QC, Canada)  
-  Conference: *Music, Brain and Pleasure*
-
+**2027 TOUR:**
+To be annouced...
 ****************************************
 
 Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music and science, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
@@ -33,9 +22,171 @@ These include:
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
 
 **Want to host a workshop or collaborate?**  
-Feel free to [get in touch](mailto:tiksha.music@gmail.com).
+Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 ---
+## 2026 - Timeless Festival - *Canada*
+-----------------------------
+<div>
+  <a href="/images/2026_timeless/timeless_1.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_1.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_2.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_2.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_3.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_3.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_4.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_4.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_5.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_5.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_6.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_timeless/timeless_7.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+</div>
+
+## 2026 - Lucioles Festival - *Canada*
+-----------------------------
+<div>
+  <a href="/images/2026_lucioles/Lucioles_1.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_1.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_lucioles/Lucioles_2.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_2.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_lucioles/Lucioles_3.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_3.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_lucioles/Lucioles_3.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_3.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_lucioles/Lucioles_2.jpg" target="_blank">
+    <img src="/images/2026_lucioles/Lucioles_2.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+</div>
+
+## 2026 - Flow Festival - *Canada*
+-----------------------------
+<div>
+  <a href="/images/2026_flow/Flow_1.jpg" target="_blank">
+    <img src="/images/2026_flow/Flow_1.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_flow/Flow_2.jpg" target="_blank">
+    <img src="/images/2026_flow/Flow_2.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_flow/Flow_3.jpg" target="_blank">
+    <img src="/images/2026_flow/Flow_3.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_flow/Flow_4.jpg" target="_blank">
+    <img src="/images/2026_flow/Flow_4.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_flow/Flow_5.jpg" target="_blank">
+    <img src="/images/2026_flow/Flow_5.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_flow/Flow_6.jpg" target="_blank">
+    <img src="/images/2026_flow/Flow_6.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+</div>
+
+
+## 2026 - Groove & Bass Festival - *Canada*
+-----------------------------
+<div>
+  <a href="/images/2026_groove/groove_1.jpg" target="_blank">
+    <img src="/images/2026_groove/groove_1.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_groove/groove_2.jpg" target="_blank">
+    <img src="/images/2026_groove/groove_2.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_groove/groove_3.jpg" target="_blank">
+    <img src="/images/2026_groove/groove_3.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_groove/groove_4.jpg" target="_blank">
+    <img src="/images/2026_groove/groove_4.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="/images/2026_groove/groove_5.jpg" target="_blank">
+    <img src="/images/2026_groove/groove_5.jpg" alt="Groove & Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+</div>
+
 ## 2026 - Eureka Festival - *Canada*
 -----------------------------
 <div>
