@@ -36,19 +36,19 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_timeless/timeless_6.jpg" target="_blank">
-    <img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2026_timeless/timeless_2.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_2.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_timeless/timeless_7.jpg" target="_blank">
-    <img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2026_timeless/timeless_6.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2026_timeless/timeless_2.jpg" target="_blank">
-    <img src="/images/2026_timeless/timeless_2.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <a href="/images/2026_timeless/timeless_7.jpg" target="_blank">
+    <img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
