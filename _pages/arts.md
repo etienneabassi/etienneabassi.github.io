@@ -6,7 +6,7 @@ author_profile: true
 ---
 *****************************************
 **2027 TOUR:**
-To be annouced...
+To be announced...
 ****************************************
 
 Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music and science, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
@@ -15,8 +15,8 @@ These include:
 
 - **Musical performances** – I perform immersive musical performances under the names of **Tikshä** and **Tikin' Dub** that blend deep bass, musical textures, and sensory exploration through sound.
   🎧 Check out my music on [SoundCloud](https://soundcloud.com/tiksha)
-- **Conferences on "Brain, Bass & Music" ** – A general public conference exploring how music, repetitive rhythms and deep bass influence our bodies and brains while dancing.
-- **Workshops on Sound Synthesis and musical production** – An introduction to creating, shaping and visualizing electronic sounds using Ableton, digital synthesizer and scientifc tools.
+- **Conferences on "Brain, Bass & Music"** – A general public conference exploring how music, repetitive rhythms and deep bass influence our bodies and brains while dancing.
+- **Workshops on Sound Synthesis and musical production** – An introduction to creating, shaping and visualizing electronic sounds using Ableton, digital synthesizer and scientific tools.
 
   
 I regularly collaborate with festivals, cultural spaces, and educational institutions to make these experiences accessible to a general audience.
@@ -29,7 +29,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2026_timeless/timeless_1.jpg" target="_blank">
-    <img src="/images/2026_timeless/timeless_1.jpg" alt="Timeless 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_timeless/timeless_1.jpg" alt="Timeless 2026" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -76,7 +76,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2026_lucioles/Lucioles_1.jpg" target="_blank">
-    <img src="/images/2026_lucioles/Lucioles_1.jpg" alt="Lucioles 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_lucioles/Lucioles_1.jpg" alt="Lucioles 2026" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -112,7 +112,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2026_flow/Flow_1.jpg" target="_blank">
-    <img src="/images/2026_flow/Flow_1.jpg" alt="Flow 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_flow/Flow_1.jpg" alt="Flow 2026" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -155,7 +155,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2026_groove/groove_1.jpg" target="_blank">
-    <img src="/images/2026_groove/groove_1.jpg" alt="Groove and Bass 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_groove/groove_1.jpg" alt="Groove and Bass 2026" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -191,7 +191,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2026_Eureka/Eureka_Flyer.jpg" target="_blank">
-    <img src="/images/2026_Eureka/Eureka_Flyer.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2026_Eureka/Eureka_Flyer.jpg" alt="EUREKA 2026" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -222,7 +222,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 </div>
 
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="//images/2026_Eureka/Eureka_5.jpg.jpg" target="_blank">
+  <a href="//images/2026_Eureka/Eureka_5.jpg" target="_blank">
     <img src="/images/2026_Eureka/Eureka_5.jpg" alt="EUREKA 2026" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
@@ -233,7 +233,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2025_xltrax_academy/1_Flyer.jpg" target="_blank">
-    <img src="/images/2025_xltrax_academy/1_Flyer.jpg" alt="XLTRAX 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_xltrax_academy/1_Flyer.jpg" alt="XLTRAX 2025" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -264,7 +264,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 -----------------------------
 <div>
   <a href="/images/2025_Timeless/1_Affiche.jpg" target="_blank">
-    <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Timeless/1_Affiche.jpg" alt="Timeless 2025" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -346,7 +346,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 <div>
   <a href="/images/2025_Lucioles/1_Affiche.jpg" target="_blank">
-    <img src="/images/2025_Lucioles/1_Affiche.jpg" alt="Lucioles 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2025_Lucioles/1_Affiche.jpg" alt="Lucioles 2025" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -395,7 +395,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 <div>
   <a href="/images/2024_Lucioles/1_Affiche.jpg" target="_blank">
-    <img src="/images/2024_Lucioles/1_Affiche.jpg" alt="Lucioles 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_Lucioles/1_Affiche.jpg" alt="Lucioles 2024" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -443,7 +443,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 <div>
   <a href="/images/2024_FF/1_affiche.jpg" target="_blank">
-    <img src="/images/2024_FF/1_affiche.jpg" alt="Future Forest 2024" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2024_FF/1_affiche.jpg" alt="Future Forest 2024" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
@@ -471,7 +471,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 
 <div>
   <a href="/images/2023_Timeless/1_Affiche.jpg" target="_blank">
-    <img src="/images/2023_Timeless/1_Affiche.jpg" alt="Timeless 2023" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/2023_Timeless/1_Affiche.jpg" alt="Timeless 2023" style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </div>
 
