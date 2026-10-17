@@ -19,9 +19,12 @@ author_profile: true
 /* Photo grid: same-size thumbnails, 3 per row on desktop, fewer on phone */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 10px;
   margin-bottom: 3rem;
+}
+@media (max-width: 600px) {
+  .gallery { grid-template-columns: repeat(2, 1fr); }
 }
 .gallery a {
   display: block;
