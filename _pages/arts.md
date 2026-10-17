@@ -39,6 +39,7 @@ author_profile: true
 /* Images with text (programs): fit inside the frame instead of cropping */
 .gallery a.full { background: rgba(127,127,127,0.12); }
 .gallery a.full img { object-fit: contain; }
+.gallery a.top img { object-position: top; }
 .gallery a:focus-visible { outline: 3px solid currentColor; outline-offset: 2px; }
 </style>
 
@@ -104,7 +105,6 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a href="/images/2026_groove/groove_2.jpg" target="_blank"><img src="/images/2026_groove/groove_2.jpg" alt="Groove and Bass 2026" loading="lazy"></a>
 <a href="/images/2026_groove/groove_3.jpg" target="_blank"><img src="/images/2026_groove/groove_3.jpg" alt="Groove and Bass 2026" loading="lazy"></a>
 <a href="/images/2026_groove/groove_4.jpg" target="_blank"><img src="/images/2026_groove/groove_4.jpg" alt="Groove and Bass 2026" loading="lazy"></a>
-<a href="/images/2026_groove/groove_5.jpg" target="_blank"><img src="/images/2026_groove/groove_5.jpg" alt="Groove and Bass 2026" loading="lazy"></a>
 </div>
 
 ## 2026 - Eureka Festival - *Canada*
