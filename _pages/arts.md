@@ -43,8 +43,10 @@ author_profile: true
 </style>
 
 *****************************************
+
 **2027 TOUR:**
 To be announced...
+
 ****************************************
 
 Across diverse events and festivals, I craft **scientific and sensory experiences** that are modular yet interconnected, exploring the shared intersection of **music, science, and perception**. Whether through musical performances, talks, or workshops, each performance offers a unique perspective on music and science, but also integrates as a whole. By blending **scientific curiosity, rhythms and deep basslines**, I invite audiences to experience music not just as sound, but as a transformative, sensory journey.
