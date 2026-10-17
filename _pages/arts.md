@@ -164,13 +164,6 @@ Feel free to [get in touch](mailto:tiksha.music@gmail.com).
 
 
 
-
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-  <a href="/images/2025_Timeless/11_set6.jpg" target="_blank">
-    <img src="/images/2025_Timeless/11_set6.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
 <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
   <a href="/images/2025_Timeless/12_set7.jpg" target="_blank">
     <img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
