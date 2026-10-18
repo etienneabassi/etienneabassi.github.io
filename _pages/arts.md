@@ -171,7 +171,6 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a href="/images/2025_Timeless/9_set1.jpg" target="_blank"><img src="/images/2025_Timeless/9_set1.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/12_set7.jpg" target="_blank"><img src="/images/2025_Timeless/12_set7.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/13_set8.jpg" target="_blank"><img src="/images/2025_Timeless/13_set8.jpg" alt="Timeless 2025" loading="lazy"></a>
-<a href="/images/2025_Timeless/14_general3.jpg" target="_blank"><img src="/images/2025_Timeless/14_general3.jpg" alt="Timeless 2025" loading="lazy"></a>
 <a href="/images/2025_Timeless/15_general1.jpg" target="_blank"><img src="/images/2025_Timeless/15_general1.jpg" alt="Timeless 2025" loading="lazy"></a>
 </div>
 
@@ -194,10 +193,10 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 <a class="full" href="/images/2024_Lucioles/3_Program.jpg" target="_blank"><img src="/images/2024_Lucioles/3_Program.jpg" alt="Lucioles 2024 program" loading="lazy"></a>
 <a class="y70" href="/images/2024_Lucioles/5_set1.jpg" target="_blank"><img src="/images/2024_Lucioles/5_set1.jpg" alt="Lucioles 2024" loading="lazy"></a>
 <a href="/images/2024_Lucioles/7_general1.jpg" target="_blank"><img src="/images/2024_Lucioles/7_general1.jpg" alt="Lucioles 2024" loading="lazy"></a>
-<a href="/images/2024_Lucioles/8_general2.jpg" target="_blank"><img src="/images/2024_Lucioles/8_general2.jpg" alt="Lucioles 2024" loading="lazy"></a>
-<a href="/images/2024_Lucioles/10_general4.jpg" target="_blank"><img src="/images/2024_Lucioles/10_general4.jpg" alt="Lucioles 2024" loading="lazy"></a>
 <a href="/images/2024_Lucioles/2_vignette.jpg" target="_blank"><img src="/images/2024_Lucioles/2_vignette.jpg" alt="Lucioles 2024" loading="lazy"></a>
 <a href="/images/2024_Lucioles/4_workshop.jpg" target="_blank"><img src="/images/2024_Lucioles/4_workshop.jpg" alt="Lucioles 2024 workshop" loading="lazy"></a>
+  <a href="/images/2024_Lucioles/8_general2.jpg" target="_blank"><img src="/images/2024_Lucioles/8_general2.jpg" alt="Lucioles 2024" loading="lazy"></a>
+<a href="/images/2024_Lucioles/10_general4.jpg" target="_blank"><img src="/images/2024_Lucioles/10_general4.jpg" alt="Lucioles 2024" loading="lazy"></a>
 </div>
 
 ## 2024 - Future Forest - *Canada*
