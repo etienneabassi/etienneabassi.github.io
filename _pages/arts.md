@@ -26,24 +26,26 @@ author_profile: true
 @media (max-width: 600px) {
   .gallery { grid-template-columns: repeat(2, 1fr); }
 }
+/* Square frames; the whole picture fits inside, with bands on the sides or top/bottom */
 .gallery a {
   display: block;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 6px;
+  background: rgba(127,127,127,0.15);   /* color of the bands */
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 .gallery img {
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
 }
-/* Images with text (programs): fit inside the frame instead of cropping */
-.gallery a.full { background: rgba(127,127,127,0.12); }
-.gallery a.full img { object-fit: contain; }
-/* Framing: choose which part of a cropped photo stays visible */
-.gallery img { object-position: var(--x, 50%) var(--y, 50%); }
+/* Optional cropped look: write <div class="gallery crop"> for a section.
+   Photos then fill the square, and the x/y classes below choose the visible part. */
+.gallery.crop img { object-fit: cover; object-position: var(--x, 50%) var(--y, 50%); }
+.gallery.crop a.full img { object-fit: contain; object-position: center; }
 /* Vertical: y0 = top edge, y100 = bottom edge (default 50 = centered) */
 .gallery a.y0 { --y: 0%; }    .gallery a.y10 { --y: 10%; }
 .gallery a.y20 { --y: 20%; }  .gallery a.y30 { --y: 30%; }
