@@ -16,24 +16,27 @@ author_profile: true
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
-/* Photo grid: same-size thumbnails, 3 per row on desktop, fewer on phone */
+/* Photo rows: same-size thumbnails, 3 per row on desktop, 2 on phone.
+   An incomplete last row (1 or 2 photos) is centered. */
 .gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 10px;
   margin-bottom: 3rem;
-}
-@media (max-width: 600px) {
-  .gallery { grid-template-columns: repeat(2, 1fr); }
 }
 /* Square frames; the whole picture fits inside, with bands on the sides or top/bottom */
 .gallery a {
   display: block;
+  flex: 0 0 calc((100% - 20px) / 3);   /* 3 per row: full width minus the 2 gaps */
   aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 6px;
   background: rgba(127,127,127,0.15);   /* color of the bands */
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+@media (max-width: 600px) {
+  .gallery a { flex-basis: calc((100% - 10px) / 2); }   /* 2 per row on phone */
 }
 .gallery img {
   display: block;
