@@ -87,7 +87,7 @@ Feel free to [get in touch](mailto:tiksha.neuromusic@gmail.com).
 ## 2026 - Timeless Festival - *Canada*
 
 <div class="gallery-hero"><a href="/images/2026_timeless/timeless_1.jpg" target="_blank"><img src="/images/2026_timeless/timeless_1.jpg" alt="Timeless 2026"></a></div>
-<div class="gallery crop">
+<div class="gallery">
 <a class="y70" href="/images/2026_timeless/timeless_2.jpg" target="_blank"><img src="/images/2026_timeless/timeless_2.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_6.jpg" target="_blank"><img src="/images/2026_timeless/timeless_6.jpg" alt="Timeless 2026" loading="lazy"></a>
 <a href="/images/2026_timeless/timeless_7.jpg" target="_blank"><img src="/images/2026_timeless/timeless_7.jpg" alt="Timeless 2026" loading="lazy"></a>
