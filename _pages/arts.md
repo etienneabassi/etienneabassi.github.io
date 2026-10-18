@@ -16,27 +16,38 @@ author_profile: true
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
-/* Photo rows: same-size thumbnails, 3 per row on desktop, 2 on phone.
-   An incomplete last row (1 or 2 photos) is centered. */
+/* Photo rows: 3 per row on desktop, 2 on phone.
+   The grid has 6 narrow columns and each photo takes 2 of them,
+   so a last row with 1 or 2 photos can be placed in the middle. */
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 10px;
   margin-bottom: 3rem;
 }
 /* Square frames; the whole picture fits inside, with bands on the sides or top/bottom */
 .gallery a {
   display: block;
-  flex: 0 0 calc((100% - 20px) / 3);   /* 3 per row: full width minus the 2 gaps */
+  grid-column: span 2;
+  min-width: 0;
   aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 6px;
   background: rgba(127,127,127,0.15);   /* color of the bands */
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
+/* 1 photo left on the last row: put it in columns 3-4 (center) */
+.gallery a:last-child:nth-child(3n+1) { grid-column: 3 / span 2; }
+/* 2 photos left on the last row: start at column 2, so they sit in 2-5 (center) */
+.gallery a:nth-last-child(2):nth-child(3n+1) { grid-column: 2 / span 2; }
 @media (max-width: 600px) {
-  .gallery a { flex-basis: calc((100% - 10px) / 2); }   /* 2 per row on phone */
+  /* Phone: 4 narrow columns, 2 photos per row */
+  .gallery { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .gallery a,
+  .gallery a:last-child:nth-child(3n+1),
+  .gallery a:nth-last-child(2):nth-child(3n+1) { grid-column: span 2; }
+  /* 1 photo left on the last row: center it */
+  .gallery a:last-child:nth-child(odd) { grid-column: 2 / span 2; }
 }
 .gallery img {
   display: block;
